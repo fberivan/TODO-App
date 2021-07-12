@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">TO-DO List</string>
+    <string name="email">E-Mail</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="invalid_inputs">Invalid data for e-mail or password!</string>
+    <string name="created_user">User account created successfully.</string>
+    <string name="already_registered">This e-mail address already registered!</string>
+    <string name="logout">Logout</string>
+    <string name="create_list">Create List</string>
+    <string name="create_item">Create Item</string>
+    <string name="export_list">Export List</string>
+    <string name="create_todo_list">Create a TO-DO List</string>
+    <string name="create_todo_list_item">Create a TO-DO List Item</string>
+    <string name="enter_name">Enter a name</string>
+    <string name="enter_a_description">Enter a description</string>
+    <string name="select_deadline">Select Deadline</string>
+    <string name="select_deadline_time">Select deadline time</string>
+    <string name="create_date">Create Date</string>
+    <string name="deadline">Deadline</string>
+    <string name="name">Name</string>
+    <string name="status">Status</string>
+    <string name="apply_sort">Apply Sort</string>
+    <string name="clear_filter">Clear Filter</string>
+    <string name="apply_filter">Apply Filter</string>
+</resources>
